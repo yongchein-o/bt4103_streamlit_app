@@ -3,7 +3,6 @@ import streamlit as st
 st.set_page_config(page_title="My App", layout="wide")
 
 SELECTIONS = [
-    None,
     "Business Intelligence: Overview - Statistics",
     "Business Intelligence: Overview - BUY/SELL By SEC",
     "Business Intelligence: Overview - SEC to BUY/SELL Sankey",
